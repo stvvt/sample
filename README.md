@@ -1,4 +1,4 @@
-sample (edit on branch `one`)
+Master sample
 ======
 
 sample repository for testing pull requests workflow
